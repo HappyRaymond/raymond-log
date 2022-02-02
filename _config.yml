@@ -4,7 +4,7 @@ author: Lilian Weng
 twitter_username: lilianweng
 baseurl: "/raymond-log"
 description: Document my learning notes.
-profile_url: "http://happyraymond.github.io"
+profile_url: "https://happyraymond.github.io"
 
 # Build settings
 markdown: kramdown
