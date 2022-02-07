@@ -1,10 +1,10 @@
-title: Lil'Log
-name: "Lilian's Tech Blog"
-author: Lilian Weng
-twitter_username: lilianweng
+title: Raymond'Log
+name: "Raymond's Tech Blog"
+author: Raymond
+twitter_username: Raymond
 baseurl: "/raymond-log"
 description: Document my learning notes.
-profile_url: "https://happyraymond.github.io"
+profile_url: "http://HappyRaymond.github.io"
 
 # Build settings
 markdown: kramdown
